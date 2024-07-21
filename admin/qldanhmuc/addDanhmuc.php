@@ -11,7 +11,7 @@
             <label for="pwd">Tên danh mục</label>
             <input type="text" class="form-control" id="pwd" name="name">
         </div>
-        <input type="submit" value="Thêm mới danh mục" name="addDm" class="btn btn-primary">
+        <a href="index.php?act=caterogies"><input type="submit" value="Thêm mới danh mục" name="addDm" class="btn btn-primary"></a>
         <input type="reset" value="Nhập lại" class="btn btn-danger">
         <a href="index.php?act=caterogies"><input type="button" class="btn btn-dark" value="Danh sách"></a>
     </form>

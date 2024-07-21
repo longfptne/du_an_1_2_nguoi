@@ -1,9 +1,25 @@
 <!-- info section -->
 <section class="info_section layout_padding2">
-  <div class="container" style="text-align: center;">
-    Copyright @2023 TEAM-4
-  </div>
-</section>
+    <div class="container">
+      <div class="row">
+        <div class="column">
+          <h5>Thông Tin Liên Hệ</h5>
+          <p>Địa chỉ: 123 Đường ABC, Thành phố XYZ</p>
+          <p>Số điện thoại: +84 123 456 789</p>
+        </div>
+        <div class="column">
+          <h5>Danh Mục</h5>
+          <ul>
+            <li><a href="index.php?act=login">Đăng nhập</a></li>
+            <li><a href="index.php?act=out">Đăng xuất</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="text-center mt-4">
+        <p>&copy; 2024 Hoàng Văn Long. Tất cả quyền được bảo lưu.</p>
+      </div>
+    </div>
+  </section>
 
 <!-- end info_section -->
 <!-- <footer class="footer_section">

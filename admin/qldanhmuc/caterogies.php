@@ -12,7 +12,7 @@
                             <th></th>
                             <th>Id</th>
                             <th>Tên</th>
-                            <th></th>
+                            <th>Thao tác</th>
                         </tr>
                     </thead>
                     <tbody>

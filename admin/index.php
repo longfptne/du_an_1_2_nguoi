@@ -1,5 +1,5 @@
 <?php
-if(isset($_SESSION['user'])&&($_SESSION['user']['role']==1)){
+
     include "boxmenu.php";
     include "../model/pdo.php";
     include "../model/danhmuc.php";
@@ -226,5 +226,5 @@ if(isset($_SESSION['user'])&&($_SESSION['user']['role']==1)){
     }else{
         include "dashboards/dashboards.php";
     }  
-}
+
 ?>

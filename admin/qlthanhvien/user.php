@@ -91,18 +91,7 @@
             }
             ?>
           </tbody>
-          <tfoot>
-            <tr>
-                <th></th>
-              <th>STT</th>
-              <th>TÊN</th>
-              <th>EMAIL</th>
-              <th>PHONE</th>
-              <th>ADDRESS</th>
-              <th>ROLE</th>
-              <th></th>
-            </tr>
-          </tfoot>
+     
         </table>
       </div>
     </div>

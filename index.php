@@ -323,7 +323,7 @@ if (isset($_GET["act"]) && $_GET["act"] != "") {
                             $order[] = $item;
                             $tt += $price * $_SESSION['cart'][$id];
                         }
-                        $dburl = "mysql:host=localhost;dbname=wd18319_duan1_team4;charset=utf8";
+                        $dburl = "mysql:host=localhost;dbname=duannn;charset=utf8";
                         $username = 'root';
                         $password = '';
                         $conn = new PDO($dburl, $username, $password);

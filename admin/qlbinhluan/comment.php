@@ -12,7 +12,7 @@
                 <th>Nội dung</th>
                 <th>Id sản phẩm</th>
                 <th>Ngày bình luận</th>
-                <th></th>
+                <th>Thao tác</th>
             </tr>
         </thead>
         <tbody>
@@ -36,17 +36,7 @@
             }
             ?>
         </tbody>
-        <tfoot>
-            <tr>
-            <th></th>
-                <th>Id</th>
-                <th>Người bình luận</th>
-                <th>Nội dung</th>
-                <th>Id sản phẩm</th>
-                <th>Ngày bình luận</th>
-                <th></th>
-            </tr>
-        </tfoot>
+     
 
     </table>
     <input type="button" value="Chọn tất cả" name="" class="btn btn-primary">

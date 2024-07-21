@@ -16,7 +16,7 @@
               </h2>
             </div>
             <p>
-              Nhóm 4 gồm 3 thành viên Cường, Thái và Tuyên .Mỗi người có một công việc khác nhau.
+            
             </p>
           </div>
         </div>

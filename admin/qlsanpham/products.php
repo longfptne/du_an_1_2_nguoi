@@ -87,7 +87,8 @@
               <th>TÊN</th>
               <th>Ảnh</th>
               <th>Giá</th>
-              <th></th>
+              <th>lượt bán </th>
+              <th>Thao tác</th>
             </tr>
           </thead>
           <tbody>
@@ -110,6 +111,7 @@
                     <td>' . $name . '</td>
                     <td>' . $hinh . '</td>
                     <td>' . $price . '</td>
+                    <td>' . $luotban . '</td>
                     <td>
                         <a href="' . $sua . '" class="btn btn-warning"><i class="fa-solid fa-pen-to-square"></i> Sửa</a>
                         <a href="' . $xoa . '" class="btn btn-danger"><i class="fa-solid fa-trash"></i> Xóa</a>
@@ -117,17 +119,7 @@
             }
             ?>
           </tbody>
-          <tfoot>
-            <tr>
-              <th></th>
-              <th>STT</th>
-              <th>ID</th>
-              <th>TÊN</th>
-              <th>Ảnh</th>
-              <th>Giá</th>
-              <th></th>
-            </tr>
-          </tfoot>
+          
         </table>
       </div>
     </div>

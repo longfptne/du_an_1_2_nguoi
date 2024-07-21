@@ -68,7 +68,7 @@
               <th>TOTAL</th>
               <th>PTTT</th>
               <th>TRẠNG THÁI</th>
-              <th></th>
+              <th>Thao tác</th>
             </tr>
           </thead>
           <tbody>
@@ -116,22 +116,7 @@
             }
             ?>
           </tbody>
-          <tfoot>
-            <tr>
-              <th></th>
-              <th>STT</th>
-              <th>ID_CART</th>
-              <th>ID_USER</th>
-              <th>TÊN NGƯỜI MUA</th>
-              <th>TEL</th>
-              <th>ADDRESS</th>
-              <th>EMAIL</th>
-              <th>TOTAL</th>
-              <th>PTTT</th>
-              <th>TRẠNG THÁI</th>
-              <th></th>
-            </tr>
-          </tfoot>
+   
         </table>
       </div>
     </div>
